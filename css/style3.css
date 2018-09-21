@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+}
+BODY {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-attachment: fixed;
+    background: linear-gradient(#2196F3 250px, #EEEEEE 1px);
+}
+header {
+    margin: auto;
+    width: 570px;
+    padding: 15px;
+    color: #FFFFFF;
+}
+input.champs-texte {
+    width: 25%;
+    height: 30px;
+    margin: 0;
+    border-radius:1em;
+    font-size: 18px;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+input.boutton-submit
+{
+    width: 5%;
+    height: 30px;
+    margin: 0;
+    border-radius:1em;
+    font-size: 18px;
+    margin-top: 10%;
+    margin-left: 8%;
+}
